@@ -1,0 +1,9 @@
+C:\Users\anita\Documents\Visual Studio 2017\Projects\music-linq\bin\Debug\netcoreapp1.1\LinqSkeleton.deps.json
+C:\Users\anita\Documents\Visual Studio 2017\Projects\music-linq\bin\Debug\netcoreapp1.1\LinqSkeleton.runtimeconfig.json
+C:\Users\anita\Documents\Visual Studio 2017\Projects\music-linq\bin\Debug\netcoreapp1.1\LinqSkeleton.runtimeconfig.dev.json
+C:\Users\anita\Documents\Visual Studio 2017\Projects\music-linq\bin\Debug\netcoreapp1.1\LinqSkeleton.dll
+C:\Users\anita\Documents\Visual Studio 2017\Projects\music-linq\bin\Debug\netcoreapp1.1\LinqSkeleton.pdb
+C:\Users\anita\Documents\Visual Studio 2017\Projects\music-linq\obj\Debug\netcoreapp1.1\LinqSkeleton.csprojResolveAssemblyReference.cache
+C:\Users\anita\Documents\Visual Studio 2017\Projects\music-linq\obj\Debug\netcoreapp1.1\LinqSkeleton.AssemblyInfo.cs
+C:\Users\anita\Documents\Visual Studio 2017\Projects\music-linq\obj\Debug\netcoreapp1.1\LinqSkeleton.dll
+C:\Users\anita\Documents\Visual Studio 2017\Projects\music-linq\obj\Debug\netcoreapp1.1\LinqSkeleton.pdb
