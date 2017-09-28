@@ -1,0 +1,18 @@
+c:\users\anita\documents\visual studio 2017\Projects\functions\functions\bin\Debug\netcoreapp1.1\functions.deps.json
+c:\users\anita\documents\visual studio 2017\Projects\functions\functions\bin\Debug\netcoreapp1.1\functions.runtimeconfig.json
+c:\users\anita\documents\visual studio 2017\Projects\functions\functions\bin\Debug\netcoreapp1.1\functions.runtimeconfig.dev.json
+c:\users\anita\documents\visual studio 2017\Projects\functions\functions\bin\Debug\netcoreapp1.1\functions.dll
+c:\users\anita\documents\visual studio 2017\Projects\functions\functions\bin\Debug\netcoreapp1.1\functions.pdb
+c:\users\anita\documents\visual studio 2017\Projects\functions\functions\obj\Debug\netcoreapp1.1\functions.csprojResolveAssemblyReference.cache
+c:\users\anita\documents\visual studio 2017\Projects\functions\functions\obj\Debug\netcoreapp1.1\functions.AssemblyInfo.cs
+c:\users\anita\documents\visual studio 2017\Projects\functions\functions\obj\Debug\netcoreapp1.1\functions.dll
+c:\users\anita\documents\visual studio 2017\Projects\functions\functions\obj\Debug\netcoreapp1.1\functions.pdb
+D:\csproject\functions\functions\bin\Debug\netcoreapp1.1\functions.deps.json
+D:\csproject\functions\functions\bin\Debug\netcoreapp1.1\functions.runtimeconfig.json
+D:\csproject\functions\functions\bin\Debug\netcoreapp1.1\functions.runtimeconfig.dev.json
+D:\csproject\functions\functions\bin\Debug\netcoreapp1.1\functions.dll
+D:\csproject\functions\functions\bin\Debug\netcoreapp1.1\functions.pdb
+D:\csproject\functions\functions\obj\Debug\netcoreapp1.1\functions.csprojResolveAssemblyReference.cache
+D:\csproject\functions\functions\obj\Debug\netcoreapp1.1\functions.AssemblyInfo.cs
+D:\csproject\functions\functions\obj\Debug\netcoreapp1.1\functions.dll
+D:\csproject\functions\functions\obj\Debug\netcoreapp1.1\functions.pdb

@@ -1,0 +1,9 @@
+D:\csproject\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp1.1\class_human.deps.json
+D:\csproject\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp1.1\class_human.runtimeconfig.json
+D:\csproject\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp1.1\class_human.runtimeconfig.dev.json
+D:\csproject\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp1.1\class_human.dll
+D:\csproject\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp1.1\class_human.pdb
+D:\csproject\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp1.1\class_human.csprojResolveAssemblyReference.cache
+D:\csproject\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp1.1\class_human.AssemblyInfo.cs
+D:\csproject\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp1.1\class_human.dll
+D:\csproject\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp1.1\class_human.pdb

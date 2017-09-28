@@ -1,0 +1,9 @@
+D:\csproject\Collections\Collections\bin\Debug\netcoreapp1.1\Collections.deps.json
+D:\csproject\Collections\Collections\bin\Debug\netcoreapp1.1\Collections.runtimeconfig.json
+D:\csproject\Collections\Collections\bin\Debug\netcoreapp1.1\Collections.runtimeconfig.dev.json
+D:\csproject\Collections\Collections\bin\Debug\netcoreapp1.1\Collections.dll
+D:\csproject\Collections\Collections\bin\Debug\netcoreapp1.1\Collections.pdb
+D:\csproject\Collections\Collections\obj\Debug\netcoreapp1.1\Collections.csprojResolveAssemblyReference.cache
+D:\csproject\Collections\Collections\obj\Debug\netcoreapp1.1\Collections.AssemblyInfo.cs
+D:\csproject\Collections\Collections\obj\Debug\netcoreapp1.1\Collections.dll
+D:\csproject\Collections\Collections\obj\Debug\netcoreapp1.1\Collections.pdb
