@@ -1,0 +1,9 @@
+D:\csproject\console_db\Consoledb\Consoledb\bin\Debug\netcoreapp1.1\Consoledb.deps.json
+D:\csproject\console_db\Consoledb\Consoledb\bin\Debug\netcoreapp1.1\Consoledb.runtimeconfig.json
+D:\csproject\console_db\Consoledb\Consoledb\bin\Debug\netcoreapp1.1\Consoledb.runtimeconfig.dev.json
+D:\csproject\console_db\Consoledb\Consoledb\bin\Debug\netcoreapp1.1\Consoledb.dll
+D:\csproject\console_db\Consoledb\Consoledb\bin\Debug\netcoreapp1.1\Consoledb.pdb
+D:\csproject\console_db\Consoledb\Consoledb\obj\Debug\netcoreapp1.1\Consoledb.csprojResolveAssemblyReference.cache
+D:\csproject\console_db\Consoledb\Consoledb\obj\Debug\netcoreapp1.1\Consoledb.AssemblyInfo.cs
+D:\csproject\console_db\Consoledb\Consoledb\obj\Debug\netcoreapp1.1\Consoledb.dll
+D:\csproject\console_db\Consoledb\Consoledb\obj\Debug\netcoreapp1.1\Consoledb.pdb
